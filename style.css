@@ -1,0 +1,50 @@
+body {
+    font-family: "Poppins", serif;
+    text-align: center;
+    line-height: 2;
+    
+}
+
+p {
+    max-width: 550px;
+    margin: 30px auto 50px auto;
+    text-align: left;
+}
+    
+.mainh1 {
+    color: cornflowerblue;
+    padding-bottom: 40px;
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+.title {
+    color: brown;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+.description > *{
+    text-align: justify;
+    display: inline-block;
+    
+}
+.image {
+    width: 40em;
+    height: auto; 
+}
+ul {
+    max-width: 550px;
+    margin: 30px auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+ol {
+    max-width: 250px;
+    margin: 30px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+li {
+    line-height: 2;
+    margin: 16px 0;
+}
